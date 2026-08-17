@@ -1,4 +1,4 @@
-# SQL Challenge 02: Digital Streaming Platform
+# SQL Challenge 02: Digital Streaming
 
 ## 📌 Overview
 This module models a video-on-demand (VOD) entertainment service. Key focus areas include subscriber lifecycle management, streaming engagement logs, genre popularity, Monthly Active Users (MAU), and revenue tracking.
